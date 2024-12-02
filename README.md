@@ -35,11 +35,13 @@
   /></a>
 </p>
 
-- 🔭 I’m currently working on
-[NextJS](https://github.com/araryarch/next-chatbot-kit) - 🌱 I’m currently
-learning **NestJS** - 👯 I’m looking to collaborate on **NextJS Projects** - 🤝
-I’m looking for help with **UI Design** - 💬 Ask me about **NextJS, ReactJS** -
-📫 How to reach me **araryaarch@gmail.com** - ⚡ Fun fact **Normal People**
+- 🔭 I’m currently working on [NextJS](https://github.com/araryarch/next-chatbot-kit) 
+- 🌱 I’m currently learning **NestJS** 
+- 👯 I’m looking to collaborate on **NextJS Projects** 
+- 🤝 I’m looking for help with **UI Design** 
+- 💬 Ask me about **NextJS, ReactJS** 
+- 📫 How to reach me **araryaarch@gmail.com** 
+- ⚡ Fun fact **Normal People**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
