@@ -251,7 +251,7 @@
     rel="noreferrer"
   >
     <img
-      src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
+      src="https://github.com/user-attachments/assets/2f2d530b-6071-4572-abd9-2d37f08436a9"
       alt="flask"
       width="40"
       height="40"
