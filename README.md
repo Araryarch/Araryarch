@@ -9,7 +9,8 @@
     alt="araryarch"
   />
 </p>
-<p align="center"><img align="center" src="https://wakatime.com/share/@Ararya/1dc0132e-022c-485e-a064-194fe5b529d5.svg" width="550"></img></p>
+
+<p align="center"><img align="center" src="https://wakatime.com/share/@Ararya/2d8391d0-b144-45b2-9081-0bb81abe5ef3.svg" width="550"></img></p>
 
 <p align="left">
   <img
