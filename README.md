@@ -623,6 +623,8 @@
   />
 </p>
 
+<figure><embed src="https://wakatime.com/share/@Ararya/1dc0132e-022c-485e-a064-194fe5b529d5.svg"></embed></figure>
+
 <p>
   <img
     align="center"
