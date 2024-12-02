@@ -1,9 +1,11 @@
+![Banner](https://github.com/user-attachments/assets/f0dd411f-f3ea-4605-bbfb-35f662fe6ca7)
 <h1 align="center">Hi 👋, I'm Ararya Arka</h1>
+
 <h3 align="center">Full-Stack Web Developer</h3>
+<p align='center'><img align="center" src="https://www.codewars.com/users/Araryarch/badges/small" alt="araryarch" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=araryarch&label=Profile%20views&color=0e75b6&style=flat" alt="araryarch" /> </p>
 
-<p><img align="left" src="https://www.codewars.com/users/Araryarch/badges/micro" alt="araryarch" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=araryarch" alt="araryarch" /></a> </p>
 
