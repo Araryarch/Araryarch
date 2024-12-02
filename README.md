@@ -371,7 +371,7 @@
     rel="noreferrer"
   >
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
+      src="https://github.com/user-attachments/assets/d8ff733b-92c2-4790-82e6-24ccb2061b83"
       alt="laravel"
       width="40"
       height="40"
